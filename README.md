@@ -23,7 +23,7 @@ This application is designed to track and inspect fruits in real-time using YOLO
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/fruit-tracking-app.git
+   git clone https://github.com/axtonleon/fruit-tracking-app.git
    ```
 2. Navigate to the project directory:
    ```
