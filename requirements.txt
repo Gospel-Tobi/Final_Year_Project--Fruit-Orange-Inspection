@@ -2,3 +2,4 @@ opencv
 streamlit
 pillow
 numpy
+ultralytics 
